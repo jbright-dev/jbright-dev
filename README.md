@@ -1,4 +1,4 @@
-<a href="Brand on White Signature.png" target="blank"><img align="center" src="Brand on White Signature.png" height="200" width="650" /></a>
+<a href="Logo.png" target="blank"><img alignment="center" src="Logo.png" height="300" width="300" /></a>
 
 # <b>Hey there,  I'm Jason</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">
 
@@ -80,3 +80,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jbright.dev@outlook.com)
 
 ### *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis*
+
+<br>
+
+<a href="Brand on White Signature.png" target="blank"><img align="center" src="Brand on White Signature.png" height="300" width="800" /></a>
