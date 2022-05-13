@@ -1,8 +1,9 @@
-<a href="Logo.png" target="blank"><img alignment="center" src="Logo.png" height="300" width="300" /></a>
+# <p align="center"> <b>Hey there,  I'm Jason</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">
 
-# <b>Hey there,  I'm Jason</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">
+<p align="center">
+<a href="Logo.png" target="blank"><img alignment="center" src="Logo.png" height="150" width="150" /></a></p>
 
-## <u>Husband</u> | <u>Father</u> | <u>Musician</u> | <u>Gamer</u> | <u>Cloud Engineer</u>
+## <p align="center"> <u>Husband</u> | <u>Father</u> | <u>Musician</u> | <u>Gamer</u> | <u>Cloud Engineer</u>
 <hr>
 
 ## <u>My Tech Stack:</u>
@@ -27,7 +28,7 @@
 
 ## <u>About Me:</u>
 
-<li> Born, raised, and proudly reside in the state of Mississippi #<b>#SouthernMade</b>
+<li> Born, raised, and proudly reside in the great state of Mississippi #<b>#SouthernMade</b>
 <li> Proud Alumni of THE Illustrious <i>Alcorn State University</i>, <b>#HBCUGrad</b>
 <li> Husband to an Amazing Wife and Father to two Amazing Boys <b>#FamilyGuy</b>
 <li> Lead Guitarist for a group of Outstanding Musicians <b>#DjTurnMeUp</b>
@@ -73,14 +74,18 @@
 
 </details>
 
-## Connect with me:
+## <u>Connect with me:</u>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbrightdev/)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/jbright_dev)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jbright.dev@outlook.com)
 
-### *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis*
+<hr>
+<br><br>
+
+## <p align="center"> *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis* </p>
 
 <br>
 
-<a href="Brand on White Signature.png" target="blank"><img align="center" src="Brand on White Signature.png" height="300" width="800" /></a>
+<p align="center"><a href="Brand on White Signature.png" target="blank"><img alignment="center" src="Brand on White Signature.png" height="400" width="2000" /></a></p>
