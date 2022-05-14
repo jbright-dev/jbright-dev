@@ -37,7 +37,7 @@
 
 <hr>
 
-## <u>What I'm currently working on:</u>
+## <u>My Current Projects:</u>
 
 - [A Collaborative Full-Stack React Project](https://github.com/jbright-dev/CO-01.TechRallyReactProject)
 - [A Full-Stack Python Application](https://github.com/jbright-dev/PY-01.Destination.ws)
@@ -66,10 +66,15 @@
 
 <hr>
 
+## <u>My Stats:</u>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true"/ height="190"/>
   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbright-dev&theme=nord&hide_border=true&layout=compact" height="190"/>
+   </a>
 </p>
 
 <hr>
@@ -81,9 +86,9 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jbright.dev@outlook.com)
 
 <hr>
-<br><br>
+<br>
 
-## <p align="center"> *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis* </p>
+### <p align="center"> *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis* </p>
 
 <br>
 
