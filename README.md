@@ -59,10 +59,10 @@
 </details>
 <hr>
 
-## 📕 Latest Blog Posts
+## <u>Latest Blog Posts:</u>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <hr>
 
