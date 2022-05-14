@@ -62,6 +62,9 @@
 ## <u>My Latest Blog Posts:</u>
 
 <!-- HASHNODE:START -->
+- [The Shed S01E00](https://jbrightdev.hashnode.dev/the-shed-s01e00)
+- [&quot;Keep it simple, don&#39;t be basic&quot;](https://jbrightdev.hashnode.dev/keep-it-simple-dont-be-basic)
+- [&quot;Pilot, follow that roadmap&quot;](https://jbrightdev.hashnode.dev/pilot-follow-that-roadmap)
 <!-- HASHNODE:END -->
 
 <hr>
