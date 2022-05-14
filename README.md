@@ -29,7 +29,7 @@
 
 ## <u>About Me:</u>
 
-<li> Born, raised, and proudly reside in the great state of Mississippi #<b>#SouthernMade</b>
+<li> Born, raised, and proudly reside in the great state of Mississippi <b>#SouthernMade</b>
 <li> Proud Alumni of THE Illustrious <i>Alcorn State University</i>, <b>#HBCUGrad</b>
 <li> Husband to an Amazing Wife and Father to two Amazing Boys <b>#FamilyGuy</b>
 <li> Lead Guitarist for a group of Outstanding Musicians <b>#DjTurnMeUp</b>
