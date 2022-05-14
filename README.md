@@ -66,12 +66,15 @@
 
 <hr>
 
-<img align="center" alt="Jason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true"/>
+  </a>
+</p>
 
 <hr>
 
 ## <u>Connect with me:</u>
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbrightdev/)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/jbright_dev)
