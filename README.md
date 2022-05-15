@@ -73,10 +73,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true"/ height="180"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true"/ height="170"/>
   </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbright-dev&theme=nord&hide_border=true&layout=compact" height="180"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbright-dev&theme=nord&hide_border=true&layout=compact" height="170"/>
    </a>
 </p>
 
