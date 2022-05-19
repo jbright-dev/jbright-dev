@@ -33,7 +33,7 @@
 <li> Proud Alumni of THE Illustrious <i>Alcorn State University</i>, <b>#HBCUGrad</b>
 <li> Husband to an Amazing Wife and Father to two Amazing Boys <b>#FamilyGuy</b>
 <li> Lead Guitarist for a group of Outstanding Musicians <b>#DjTurnMeUp</b>
-<li> Life-long learner trying to use each day, to grow in some way <b>#ThatRhymed</b> 
+<li> Life-long learner using each day, to grow in some way <b>#ThatRhymed</b> 
 
 <hr>
 
@@ -53,6 +53,8 @@
 - PY: Python focused Project
 - AZ: Microsoft Azure focused Project
 - CO: Collaboration Project
+- CF: Coder Foundry Project
+- GU: Generation USA Project
 - SOD: Sounds-O-Dynomite! NPO Project
 <!--END_SECTION:activity Repository IDs-->
 
