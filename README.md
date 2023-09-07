@@ -3,7 +3,7 @@
 <p align="center">
 <a href="Logo.png" target="blank"><img alignment="center" src="Logo.png" height="150" width="150" /></a></p>
 
-## <p align="center"> <u>Husband</u> | <u>Father</u> | <u>Musician</u> | <u>Gamer</u> | <u>Cloud Engineer</u>
+## <p align="center"> <u>Husband</u> | <u>Father</u> | <u>Musician</u> | <u>Gamer</u> | <u>Software Developer</u>
 <hr>
 
 ## <u>My Tech Stack:</u>
